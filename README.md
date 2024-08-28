@@ -12,8 +12,11 @@ Existing contacts are displayed in a listbox, allowing users to select and view 
 Functionality:
 
 Add Contact: Users can input a contact’s name and phone number, and upon clicking the “Add Contact” button, the contact is added to the list.
+
 Delete Contact: Users can select a contact from the list and click the “Delete Contact” button to remove it.
+
 View Contact Details: Clicking on a contact in the listbox displays its details (name and phone number) in the input fields for editing or reference.
+
 Clear Contacts: The “Clear Contacts” button clears the entire contact list.
 
 Error Handling:
